@@ -1,0 +1,120 @@
+Epoch: 0/40
+Dev: time: 102.51s, speed: 428.94st/s; acc: 0.9763, p: 0.8603, r: 0.7975, f: 0.8277
+Test: time: 102.51s, speed: 428.90st/s; acc: 0.9777, p: 0.8773, r: 0.7996, f: 0.8367
+Epoch: 1/40
+Dev: time: 99.88s, speed: 440.43st/s; acc: 0.9795, p: 0.9194, r: 0.7819, f: 0.8451
+Test: time: 99.88s, speed: 414.65st/s; acc: 0.9804, p: 0.9320, r: 0.7838, f: 0.8515
+Epoch: 2/40
+Dev: time: 100.04s, speed: 438.92st/s; acc: 0.9803, p: 0.9151, r: 0.7988, f: 0.8530
+Test: time: 100.04s, speed: 439.94st/s; acc: 0.9821, p: 0.9344, r: 0.8063, f: 0.8656
+Epoch: 3/40
+Dev: time: 64.36s, speed: 685.85st/s; acc: 0.9808, p: 0.9235, r: 0.7987, f: 0.8566
+Test: time: 64.36s, speed: 478.41st/s; acc: 0.9824, p: 0.9394, r: 0.8056, f: 0.8673
+Epoch: 4/40
+Dev: time: 80.24s, speed: 546.98st/s; acc: 0.9806, p: 0.8812, r: 0.8436, f: 0.8620
+Test: time: 80.24s, speed: 548.89st/s; acc: 0.9824, p: 0.9007, r: 0.8472, f: 0.8731
+Epoch: 5/40
+Dev: time: 79.31s, speed: 553.42st/s; acc: 0.9818, p: 0.9050, r: 0.8330, f: 0.8675
+Test: time: 79.31s, speed: 552.92st/s; acc: 0.9833, p: 0.9208, r: 0.8390, f: 0.8780
+Epoch: 6/40
+Dev: time: 74.86s, speed: 586.55st/s; acc: 0.9819, p: 0.9007, r: 0.8407, f: 0.8697
+Test: time: 74.86s, speed: 1060.29st/s; acc: 0.9836, p: 0.9183, r: 0.8464, f: 0.8809
+Epoch: 7/40
+Dev: time: 79.66s, speed: 550.98st/s; acc: 0.9822, p: 0.9060, r: 0.8381, f: 0.8707
+Test: time: 79.66s, speed: 550.23st/s; acc: 0.9841, p: 0.9247, r: 0.8470, f: 0.8842
+Epoch: 8/40
+Dev: time: 40.32s, speed: 1094.57st/s; acc: 0.9826, p: 0.9353, r: 0.8139, f: 0.8704
+Test: time: 40.32s, speed: 1100.05st/s; acc: 0.9843, p: 0.9509, r: 0.8239, f: 0.8828
+Epoch: 9/40
+Dev: time: 40.28s, speed: 1095.74st/s; acc: 0.9828, p: 0.9162, r: 0.8367, f: 0.8746
+Test: time: 40.28s, speed: 1097.94st/s; acc: 0.9845, p: 0.9320, r: 0.8448, f: 0.8863
+Epoch: 10/40
+Dev: time: 41.40s, speed: 1065.80st/s; acc: 0.9832, p: 0.9247, r: 0.8331, f: 0.8765
+Test: time: 41.40s, speed: 1070.65st/s; acc: 0.9848, p: 0.9414, r: 0.8403, f: 0.8880
+Epoch: 11/40
+Dev: time: 40.88s, speed: 1079.29st/s; acc: 0.9831, p: 0.9254, r: 0.8321, f: 0.8763
+Test: time: 40.88s, speed: 1081.92st/s; acc: 0.9849, p: 0.9420, r: 0.8414, f: 0.8889
+Epoch: 12/40
+Dev: time: 41.00s, speed: 1076.30st/s; acc: 0.9830, p: 0.9012, r: 0.8564, f: 0.8782
+Test: time: 41.00s, speed: 1084.08st/s; acc: 0.9849, p: 0.9219, r: 0.8624, f: 0.8911
+Epoch: 13/40
+Dev: time: 61.12s, speed: 721.84st/s; acc: 0.9834, p: 0.9197, r: 0.8420, f: 0.8791
+Test: time: 61.12s, speed: 727.14st/s; acc: 0.9853, p: 0.9385, r: 0.8500, f: 0.8920
+Epoch: 14/40
+Dev: time: 60.86s, speed: 725.12st/s; acc: 0.9837, p: 0.9276, r: 0.8386, f: 0.8808
+Test: time: 60.86s, speed: 732.36st/s; acc: 0.9854, p: 0.9434, r: 0.8471, f: 0.8927
+Epoch: 15/40
+Dev: time: 60.50s, speed: 730.72st/s; acc: 0.9838, p: 0.9269, r: 0.8401, f: 0.8814
+Test: time: 60.50s, speed: 727.24st/s; acc: 0.9855, p: 0.9423, r: 0.8496, f: 0.8936
+Epoch: 16/40
+Dev: time: 60.79s, speed: 726.10st/s; acc: 0.9837, p: 0.9243, r: 0.8415, f: 0.8810
+Test: time: 60.79s, speed: 731.57st/s; acc: 0.9855, p: 0.9408, r: 0.8513, f: 0.8938
+Epoch: 17/40
+Dev: time: 76.01s, speed: 580.34st/s; acc: 0.9838, p: 0.9292, r: 0.8391, f: 0.8818
+Test: time: 76.01s, speed: 584.64st/s; acc: 0.9857, p: 0.9457, r: 0.8492, f: 0.8948
+Epoch: 18/40
+Dev: time: 58.15s, speed: 759.54st/s; acc: 0.9838, p: 0.9272, r: 0.8409, f: 0.8820
+Test: time: 58.15s, speed: 730.73st/s; acc: 0.9856, p: 0.9433, r: 0.8502, f: 0.8943
+Epoch: 19/40
+Dev: time: 69.99s, speed: 629.95st/s; acc: 0.9841, p: 0.9361, r: 0.8352, f: 0.8827
+Test: time: 69.99s, speed: 723.00st/s; acc: 0.9857, p: 0.9510, r: 0.8447, f: 0.8947
+Epoch: 20/40
+Dev: time: 60.98s, speed: 724.46st/s; acc: 0.9840, p: 0.9205, r: 0.8505, f: 0.8841
+Test: time: 60.98s, speed: 728.91st/s; acc: 0.9860, p: 0.9383, r: 0.8608, f: 0.8979
+Epoch: 21/40
+Dev: time: 60.32s, speed: 731.95st/s; acc: 0.9842, p: 0.9283, r: 0.8447, f: 0.8845
+Test: time: 60.32s, speed: 738.84st/s; acc: 0.9859, p: 0.9439, r: 0.8540, f: 0.8967
+Epoch: 22/40
+Dev: time: 60.25s, speed: 732.20st/s; acc: 0.9840, p: 0.9159, r: 0.8561, f: 0.8850
+Test: time: 60.25s, speed: 738.75st/s; acc: 0.9858, p: 0.9331, r: 0.8642, f: 0.8973
+Epoch: 23/40
+Dev: time: 41.02s, speed: 1075.81st/s; acc: 0.9840, p: 0.9108, r: 0.8609, f: 0.8851
+Test: time: 41.02s, speed: 1079.16st/s; acc: 0.9859, p: 0.9292, r: 0.8699, f: 0.8986
+Epoch: 24/40
+Dev: time: 41.82s, speed: 1054.93st/s; acc: 0.9842, p: 0.9309, r: 0.8419, f: 0.8842
+Test: time: 41.82s, speed: 982.28st/s; acc: 0.9860, p: 0.9448, r: 0.8538, f: 0.8970
+Epoch: 25/40
+Dev: time: 41.08s, speed: 1074.19st/s; acc: 0.9842, p: 0.9186, r: 0.8564, f: 0.8864
+Test: time: 41.08s, speed: 1078.46st/s; acc: 0.9863, p: 0.9367, r: 0.8674, f: 0.9007
+Epoch: 26/40
+Dev: time: 40.94s, speed: 1077.74st/s; acc: 0.9843, p: 0.9250, r: 0.8507, f: 0.8863
+Test: time: 40.94s, speed: 1082.14st/s; acc: 0.9863, p: 0.9417, r: 0.8613, f: 0.8997
+Epoch: 27/40
+Dev: time: 40.06s, speed: 1101.95st/s; acc: 0.9841, p: 0.9113, r: 0.8625, f: 0.8862
+Test: time: 40.06s, speed: 1097.47st/s; acc: 0.9861, p: 0.9282, r: 0.8736, f: 0.9001
+Epoch: 28/40
+Dev: time: 41.09s, speed: 1073.81st/s; acc: 0.9844, p: 0.9240, r: 0.8523, f: 0.8867
+Test: time: 41.09s, speed: 1079.19st/s; acc: 0.9863, p: 0.9388, r: 0.8646, f: 0.9002
+Epoch: 29/40
+Dev: time: 73.15s, speed: 603.42st/s; acc: 0.9843, p: 0.9235, r: 0.8524, f: 0.8865
+Test: time: 73.15s, speed: 601.24st/s; acc: 0.9863, p: 0.9395, r: 0.8644, f: 0.9004
+Epoch: 30/40
+Dev: time: 76.05s, speed: 580.27st/s; acc: 0.9841, p: 0.9047, r: 0.8704, f: 0.8872
+Test: time: 76.05s, speed: 569.20st/s; acc: 0.9861, p: 0.9242, r: 0.8780, f: 0.9005
+Epoch: 31/40
+Dev: time: 60.57s, speed: 728.18st/s; acc: 0.9846, p: 0.9252, r: 0.8546, f: 0.8885
+Test: time: 60.57s, speed: 733.30st/s; acc: 0.9864, p: 0.9409, r: 0.8642, f: 0.9009
+Epoch: 32/40
+Dev: time: 60.17s, speed: 733.53st/s; acc: 0.9843, p: 0.9127, r: 0.8642, f: 0.8878
+Test: time: 60.17s, speed: 738.78st/s; acc: 0.9862, p: 0.9296, r: 0.8736, f: 0.9007
+Epoch: 33/40
+Dev: time: 60.62s, speed: 727.96st/s; acc: 0.9842, p: 0.9124, r: 0.8634, f: 0.8872
+Test: time: 60.62s, speed: 730.22st/s; acc: 0.9863, p: 0.9298, r: 0.8747, f: 0.9014
+Epoch: 34/40
+Dev: time: 40.44s, speed: 1091.77st/s; acc: 0.9845, p: 0.9280, r: 0.8508, f: 0.8877
+Test: time: 40.44s, speed: 919.36st/s; acc: 0.9865, p: 0.9447, r: 0.8621, f: 0.9015
+Epoch: 35/40
+Dev: time: 40.44s, speed: 1091.59st/s; acc: 0.9845, p: 0.9209, r: 0.8582, f: 0.8885
+Test: time: 40.44s, speed: 1095.98st/s; acc: 0.9865, p: 0.9387, r: 0.8684, f: 0.9022
+Epoch: 36/40
+Dev: time: 40.39s, speed: 1092.88st/s; acc: 0.9847, p: 0.9269, r: 0.8538, f: 0.8889
+Test: time: 40.39s, speed: 1053.79st/s; acc: 0.9866, p: 0.9433, r: 0.8641, f: 0.9020
+Epoch: 37/40
+Dev: time: 44.63s, speed: 988.19st/s; acc: 0.9845, p: 0.9202, r: 0.8592, f: 0.8886
+Test: time: 44.63s, speed: 1092.54st/s; acc: 0.9865, p: 0.9372, r: 0.8694, f: 0.9020
+Epoch: 38/40
+Dev: time: 40.57s, speed: 1087.86st/s; acc: 0.9847, p: 0.9320, r: 0.8483, f: 0.8882
+Test: time: 40.57s, speed: 1091.58st/s; acc: 0.9865, p: 0.9462, r: 0.8601, f: 0.9011
+Epoch: 39/40
+Dev: time: 48.69s, speed: 905.17st/s; acc: 0.9847, p: 0.9254, r: 0.8556, f: 0.8891
+Test: time: 48.69s, speed: 902.50st/s; acc: 0.9866, p: 0.9406, r: 0.8676, f: 0.9026
